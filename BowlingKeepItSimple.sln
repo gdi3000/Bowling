@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingKeepItSimple", "BowlingKeepItSimple\BowlingKeepItSimple.csproj", "{FD5C770D-9CDB-402D-AF1C-0B712EA32717}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingKeepItSimpleTests", "BowlingKeepItSimpleTests\BowlingKeepItSimpleTests.csproj", "{456429FF-4CEC-412A-A00D-3BD95187BEF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD5C770D-9CDB-402D-AF1C-0B712EA32717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD5C770D-9CDB-402D-AF1C-0B712EA32717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD5C770D-9CDB-402D-AF1C-0B712EA32717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456429FF-4CEC-412A-A00D-3BD95187BEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456429FF-4CEC-412A-A00D-3BD95187BEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456429FF-4CEC-412A-A00D-3BD95187BEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456429FF-4CEC-412A-A00D-3BD95187BEF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
